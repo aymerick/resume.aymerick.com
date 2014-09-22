@@ -93,4 +93,4 @@ Open-source
 
 <br /><br />
 
-<center>_(Others formats: [PDF](https://raw.githubusercontent.com/aymerick/resume.aymerick.com/gh-pages/resume.pdf) - [HTML](http://resume.aymerick.com) - [Markdown](https://raw.githubusercontent.com/aymerick/resume.aymerick.com/gh-pages/resume.md))_</center>
+<center>_(Formats: [PDF](https://raw.githubusercontent.com/aymerick/resume.aymerick.com/gh-pages/resume.pdf) - [HTML](http://resume.aymerick.com) - [Markdown](https://raw.githubusercontent.com/aymerick/resume.aymerick.com/gh-pages/resume.md))_</center>
