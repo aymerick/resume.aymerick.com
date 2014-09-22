@@ -1,4 +1,4 @@
-My resumé
+My resumé, available here: <http://resume.aymerick.com>
 
 Generated with <https://github.com/mwhite/resume>.
 
