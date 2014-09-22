@@ -8,9 +8,9 @@ aymerick@jehanne.org
 Who ?
 -----
 
-*   I'm a software developer living near [Rennes](http://en.wikipedia.org/wiki/Rennes), France.
+*   I'm a 37 years old software developer living near [Rennes](http://en.wikipedia.org/wiki/Rennes), France.
 
-    I worked remotely between 2008 and 2014 as a full stack web developer at Fotonauts, a company founded by a group of ex-Apple engineers to create [fotopedia](http://www.    fotopedia.com), a photo community website.
+    I worked remotely between 2008 and 2014 as a full stack web developer at Fotonauts, a company founded by a group of ex-Apple engineers to create [fotopedia](http://www.fotopedia.com), a photo community website.
 
     My current centers of interest are the [Go](http://golang.org/) language, the [Ember.js](http://emberjs.com) framework and home automation, therefore I started a new   open source project called [Jeego](https://github.com/aymerick/jeego) with a [web app](https://github.com/aymerick/jeego-web) and [DIY devices](https://github.   com/aymerick/jeego-devices).
 
@@ -24,14 +24,14 @@ Work Experience
 
     *June 2008 – September 2014*
 
-    I started at Fotonauts by setting up servers with [Puppet](http://puppetlabs.com) then [Chef](http://www.getchef.com). I then developed several features in the [rails](http://rubyonrails.org) web app, including photo upload, async job system, users newsfeed, reputation system, achievements system, notifications and newsletter system. Our main database engine was [MongoDB](http://www.mongodb.org) and we used a [Resque](https://github.com/resque/resque) async jobs queue.
+    I started at Fotonauts by setting up servers with [Puppet](http://puppetlabs.com) then [Chef](http://www.getchef.com). I then developed several features in the [rails](http://rubyonrails.org) web app, including photo upload, async job system, users newsfeed, reputation system, achievements system, notifications and newsletter system. Our main database engine was [MongoDB](http://www.mongodb.org) and we used [Resque](https://github.com/resque/resque) to handle async jobs.
 
     Although I have mainly done backend stuff, I also acquired experience in frontend development: [CSS](http://en.wikipedia.org/wiki/CSS), [SASS](http://sass-lang.com), [Javascript](http://en.wikipedia.org/wiki/JavaScript), [responsive design](http://en.wikipedia.org/wiki/Responsive_web_design) (even for [emails](http://zurb.com/ink/)).
 
-    The Fotonauts team was based in Paris. Most of the time I worked from home at Betton, but one day a week I did go to Paris to work with my amazing colleagues (and to drink some beers with them).
+    The Fotonauts team was based in Paris. Most of the time I worked from home, but one day a week I travelled to Paris to work with my amazing colleagues (and to drink some beers with them).
 
 
-*   **NewLC** (Rennes)
+*   **Apple Contractor at NewLC** (Rennes)
 
     *December 2004 – May 2008*
 
@@ -69,3 +69,23 @@ Education
 *   **Université de Rennes I** (1995 – 1997 / Rennes)
 
     Deug MIAS, Mathematics and Computer Science
+
+
+Open-source
+-----------
+
+*   **[Jeego](https://github.com/aymerick/jeego)**
+
+    House monitoring with [Jeenode](http://jeelabs.org/)/[TinyTX](http://nathan.chantrell.net/tinytx-wireless-sensor) sensors and [Go](http://golang.org) language.
+
+*   **[Activr](https://github.com/fotonauts/activr)**
+
+    The activity feeds system that powered [fotopedia](http://www.fotopedia.com).
+
+*   **[Fwissr](https://github.com/fotonauts/fwissr)**
+
+    A simple configuration registry tool developed for [fotopedia](http://www.fotopedia.com).
+
+*   **[WBXML Library](https://github.com/aymerick/libwbxml-0.9.3)**
+
+    A library to encode and decode [WBXML](http://en.wikipedia.org/wiki/WBXML).
