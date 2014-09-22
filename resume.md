@@ -3,6 +3,7 @@ Aymerick Jéhanne
 
 aymerick@jehanne.org
 <http://aymerick.com>
+([PDF](https://github.com/aymerick/resume.aymerick.com/resume.pdf) - [HTML](https://github.com/aymerick/resume.aymerick.com) - [MD](https://github.com/aymerick/resume.aymerick.com/resume.md))
 
 
 Who ?
