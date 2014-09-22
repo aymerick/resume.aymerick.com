@@ -3,7 +3,6 @@ Aymerick Jéhanne
 
 aymerick@jehanne.org
 <http://aymerick.com>
-([PDF](https://raw.githubusercontent.com/aymerick/resume.aymerick.com/gh-pages/resume.pdf) - [HTML](http://resume.aymerick.com) - [MD](https://raw.githubusercontent.com/aymerick/resume.aymerick.com/gh-pages/resume.md))
 
 
 Who ?
@@ -90,3 +89,8 @@ Open-source
 *   **[WBXML Library](https://github.com/aymerick/libwbxml-0.9.3)**
 
     A library to encode and decode [WBXML](http://en.wikipedia.org/wiki/WBXML).
+
+
+<br /><br />
+
+<center>_(Others formats: [PDF](https://raw.githubusercontent.com/aymerick/resume.aymerick.com/gh-pages/resume.pdf) - [HTML](http://resume.aymerick.com) - [Markdown](https://raw.githubusercontent.com/aymerick/resume.aymerick.com/gh-pages/resume.md))_</center>
