@@ -2,19 +2,19 @@ Aymerick Jéhanne
 ================
 
 aymerick@jehanne.org
-<http://www.aymerick.com>
+<http://aymerick.com>
 
 
 Who ?
 -----
 
-I'm a software developer living near [Rennes](http://en.wikipedia.org/wiki/Rennes), France.
+*   I'm a software developer living near [Rennes](http://en.wikipedia.org/wiki/Rennes), France.
 
-I worked remotely between 2008 and 2014 as a full stack web developer at Fotonauts, a company founded by a group of ex-Apple engineers to create [fotopedia](http://www.fotopedia.com), a photo community website.
+    I worked remotely between 2008 and 2014 as a full stack web developer at Fotonauts, a company founded by a group of ex-Apple engineers to create [fotopedia](http://www.    fotopedia.com), a photo community website.
 
-My current centers of interest are the [Go](http://golang.org/) language, the [Ember.js](http://emberjs.com) framework and home automation, therefore I started a new open source project called [Jeego](https://github.com/aymerick/jeego) with a [web app](https://github.com/aymerick/jeego-web) and [DIY devices](https://github.com/aymerick/jeego-devices).
+    My current centers of interest are the [Go](http://golang.org/) language, the [Ember.js](http://emberjs.com) framework and home automation, therefore I started a new   open source project called [Jeego](https://github.com/aymerick/jeego) with a [web app](https://github.com/aymerick/jeego-web) and [DIY devices](https://github.   com/aymerick/jeego-devices).
 
-I am also involved in non-profit organizations like [3ailes](http://www.3ailes.org), [Williams Bretagne](http://www.williams-bretagne.org) and [Planet Williams](http://www.planet-williams.org), which, as a side effect, gives me the opportunity to acquire experience with [Ember.js](http://emberjs.com), [Bootstrap](http://getbootstrap.com) and [Jekyll](http://jekyllrb.com)... geek forever :)
+    I am also involved in non-profit organizations like [3ailes](http://www.3ailes.org), [Williams Bretagne](http://www.williams-bretagne.org) and [Planet Williams](   http://www.planet-williams.org), which, as a side effect, gives me the opportunity to acquire experience with [Ember.js](http://emberjs.com), [Bootstrap]( http://getbootstrap.com) and [Jekyll](http://jekyllrb.com)... geek forever :)
 
 
 Work Experience
@@ -24,7 +24,7 @@ Work Experience
 
     *June 2008 – September 2014*
 
-    I started at Fotonauts by setting up servers with [Puppet](http://puppetlabs.com) then [Chef](http://www.getchef.com). I then developed several features: photo upload, async job system, users newsfeed, reputation system, achievements system, notifications and newsletter system.
+    I started at Fotonauts by setting up servers with [Puppet](http://puppetlabs.com) then [Chef](http://www.getchef.com). I then developed several features in the [rails](http://rubyonrails.org) web app, including photo upload, async job system, users newsfeed, reputation system, achievements system, notifications and newsletter system. Our main database engine was [MongoDB](http://www.mongodb.org) and we used a [Resque](https://github.com/resque/resque) async jobs queue.
 
     Although I have mainly done backend stuff, I also acquired experience in frontend development: [CSS](http://en.wikipedia.org/wiki/CSS), [SASS](http://sass-lang.com), [Javascript](http://en.wikipedia.org/wiki/JavaScript), [responsive design](http://en.wikipedia.org/wiki/Responsive_web_design) (even for [emails](http://zurb.com/ink/)).
 
