@@ -4,10 +4,6 @@ Aymerick Jéhanne
 aymerick@jehanne.org
 <http://aymerick.com>
 
-
-Who ?
------
-
 *   I'm a 37 years old software developer living near [Rennes](http://en.wikipedia.org/wiki/Rennes), France.
 
     I worked remotely between 2008 and 2014 as a full stack web developer at Fotonauts, a company founded by a group of ex-Apple engineers to create [fotopedia](http://www.fotopedia.com), a photo community website.
