@@ -105,5 +105,5 @@ Associations
 
 <br /><br />
 
-<center>_(Formats: [PDF](http://resume.aymerick.com/resume.pdf) - [HTML](http://resume.aymerick.com) - [Markdown](http://resume.aymerick.com/resume.md))_</center>
 <center>_([Français](http://resume.aymerick.com/cv.html))_</center>
+<center>_(Formats: [PDF](http://resume.aymerick.com/resume.pdf) - [HTML](http://resume.aymerick.com) - [Markdown](http://resume.aymerick.com/resume.md))_</center>
