@@ -110,6 +110,22 @@ Logiciel Libre
     Bibliothèque en [C](http://fr.wikipedia.org/wiki/C_(langage)) pour parser et générer des documents au format [WBXML](http://en.wikipedia.org/wiki/WBXML).
 
 
+Associations
+------------
+
+*   **[3ailes](http://www.3ailes.org)**
+
+    Membre fondateur et secrétaire de [3ailes](http://www.3ailes.org), l'association des parents d'enfants en situation de handicap sur Betton et ses alentours.
+
+*   **[Williams Bretagne](http://www.williams-bretagne.org)**
+
+    Membre et responsable "informatique" de [Williams Bretagne](http://www.williams-bretagne.org), l'association bretonne du [Syndrome de Williams](http://fr.wikipedia.org/wiki/Syndrome_de_Williams).
+
+*   **[Planet Williams](http://www.planet-williams.org)**
+
+    Créateur du site [Planet Williams](http://www.planet-williams.org) qui recense les associations en lien avec le [Syndrome de Williams](http://fr.wikipedia.org/wiki/Syndrome_de_Williams) à travers le monde.
+
+
 <br /><br />
 
 <center>_(Formats: [PDF](http://resume.aymerick.com/cv.pdf) - [HTML](http://resume.aymerick.com/cv.html) - [Markdown](http://resume.aymerick.com/cv.md))_</center>

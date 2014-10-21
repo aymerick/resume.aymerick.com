@@ -87,6 +87,22 @@ Open-source
     A library to encode and decode [WBXML](http://en.wikipedia.org/wiki/WBXML).
 
 
+Associations
+------------
+
+*   **[3ailes](http://www.3ailes.org)**
+
+    Founder of [3ailes](http://www.3ailes.org), a local association for parents of children with disabilities.
+
+*   **[Williams Bretagne](http://www.williams-bretagne.org)**
+
+    Member of [Williams Bretagne](http://www.williams-bretagne.org), a local association on [Williams Syndrome](http://en.wikipedia.org/wiki/Williams_Syndrome).
+
+*   **[Planet Williams](http://www.planet-williams.org)**
+
+    Creator of [Planet Williams](http://www.planet-williams.org), a website that lists the associations related to [Williams Syndrome](http://en.wikipedia.org/wiki/Williams_Syndrome) all around the world.
+
+
 <br /><br />
 
 <center>_(Formats: [PDF](http://resume.aymerick.com/resume.pdf) - [HTML](http://resume.aymerick.com) - [Markdown](http://resume.aymerick.com/resume.md))_</center>
