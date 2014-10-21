@@ -129,4 +129,5 @@ Associations
 <br /><br />
 
 <center>_([English](http://resume.aymerick.com))_</center>
+<br />
 <center>_(Formats: [PDF](http://resume.aymerick.com/cv.pdf) - [HTML](http://resume.aymerick.com/cv.html) - [Markdown](http://resume.aymerick.com/cv.md))_</center>
