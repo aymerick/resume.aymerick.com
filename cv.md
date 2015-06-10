@@ -93,6 +93,18 @@ Formation
 Logiciel Libre
 --------------
 
+*   **[Raymond](https://github.com/fotonauts/raymond)**
+
+    Une implémentation de [handlebars](http://handlebarsjs.com) en [Go](http://golang.org).
+
+*   **[Douceur](https://github.com/fotonauts/douceur)**
+
+    Un parser et inliner de CSS en [Go](http://golang.org).
+
+*   **[Kowa](https://github.com/fotonauts/kowa)**
+
+    Un générateur de sites statiques en [Go](http://golang.org) avec une interface d'administration créée avec [Ember.js](http://emberjs.com).
+
 *   **[Jeego](https://github.com/aymerick/jeego)**
 
     Serveur domotique [DIY](http://fr.wikipedia.org/wiki/Do_it_yourself) avec des capteurs [Jeenode](http://jeelabs.org/)/[TinyTX](http://nathan.chantrell.net/tinytx-wireless-sensor), écrit en [Go](http://golang.org) et [EmberJS](http://emberjs.com).

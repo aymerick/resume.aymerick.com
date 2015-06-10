@@ -70,6 +70,18 @@ Education
 Open-source
 -----------
 
+*   **[Raymond](https://github.com/fotonauts/raymond)**
+
+    A complete [handlebars](http://handlebarsjs.com) implementation in [Go](http://golang.org).
+
+*   **[Douceur](https://github.com/fotonauts/douceur)**
+
+    A simple CSS parser and inliner in [Go](http://golang.org).
+
+*   **[Kowa](https://github.com/fotonauts/kowa)**
+
+    A static website manager in [Go](http://golang.org) with a web administration in [Ember.js](http://emberjs.com).
+
 *   **[Jeego](https://github.com/aymerick/jeego)**
 
     House monitoring with [Jeenode](http://jeelabs.org/)/[TinyTX](http://nathan.chantrell.net/tinytx-wireless-sensor) sensors and [Go](http://golang.org) language.
